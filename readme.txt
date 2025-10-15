@@ -56,3 +56,5 @@ Relation database
 npm install typeorm reflect-metadata
 
 npm install mssql
+
+git install
